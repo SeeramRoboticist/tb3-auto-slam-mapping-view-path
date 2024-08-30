@@ -1,4 +1,4 @@
-# TURTLESIM MOVEMENT IN LEMNISCATE MOVEMENT
+# tb3-auto-slam-mapping-view-path
 
 ## Installation
 - Create a Workspace using below command:
